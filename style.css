@@ -1,0 +1,28 @@
+.hidden {
+    display: none;
+}
+.show {
+    display: flex;
+}
+
+button {
+    width: 7vw;
+    height: 3vw;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.progress {
+    margin: 10px;
+}
+
+.col-12 {
+    text-align: center;
+}
+
+.message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
